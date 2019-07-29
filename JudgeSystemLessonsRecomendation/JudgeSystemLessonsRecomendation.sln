@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JudgeSystemLessonsRecomendation", "JudgeSystemLessonsRecomendation\JudgeSystemLessonsRecomendation.csproj", "{9AEB1BB7-6273-4EF8-8E01-1024ED6A7711}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AEB1BB7-6273-4EF8-8E01-1024ED6A7711}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AEB1BB7-6273-4EF8-8E01-1024ED6A7711}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AEB1BB7-6273-4EF8-8E01-1024ED6A7711}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AEB1BB7-6273-4EF8-8E01-1024ED6A7711}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD9F3D5E-BF23-4D75-BA96-A64E6DE28F0C}
+	EndGlobalSection
+EndGlobal
