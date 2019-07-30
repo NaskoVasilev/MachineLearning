@@ -10,7 +10,7 @@ namespace JudgeSystemLessonsRecomendation
         [LoadColumn(1)]
         public int LessonId { get; set; }
 
-        //[LoadColumn(2)]
-        //public float Lebel { get; set; }
+        [LoadColumn(2)]
+        public float Label { get; set; }
     }
 }

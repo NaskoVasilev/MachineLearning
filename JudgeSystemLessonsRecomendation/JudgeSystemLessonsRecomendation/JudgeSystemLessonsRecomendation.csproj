@@ -7,6 +7,16 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.ML" Version="1.2.0" />
+    <PackageReference Include="Microsoft.ML.Recommender" Version="0.14.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="judge-system-lessons.csv">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="judge-system-user-lessons.csv">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
 
 </Project>

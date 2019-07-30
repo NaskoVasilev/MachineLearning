@@ -1,10 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace JudgeSystemLessonsRecomendation
+﻿namespace JudgeSystemLessonsRecomendation
 {
-    class UserLessonScore
+    public class UserLessonScore
     {
+        public float Score { get; set; }
     }
 }
